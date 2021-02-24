@@ -123,3 +123,7 @@ BibTex:
 ```
 
 Please contact us if you have any question.
+
+#### class FPNRatioPredictor(mm.Module)  you can find out the 5 parameters
+
+#### Fixcoder() you can find how to transform a horizontal BBox to oriented BBox
